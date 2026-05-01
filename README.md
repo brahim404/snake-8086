@@ -57,7 +57,7 @@ You need [NASM](https://www.nasm.us/) and [DOSBox](https://www.dosbox.com/).
 
 ```bash
 # Clone
-git clone https://github.com/YourUsername/snake-8086.git
+git clone https://github.com/brahim404/snake-8086.git
 cd snake-8086
 
 # Assemble into a flat .com binary — one command, no linker needed
