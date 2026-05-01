@@ -1,0 +1,15 @@
+# Compiled binary (distribute via Releases, not committed to source)
+*.com
+
+# NASM intermediate files
+*.o
+*.lst
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
